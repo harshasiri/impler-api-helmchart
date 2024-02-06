@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  impler-api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-06T16:22:56.6503339+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e5a3e20225f7ef4f0115e3c4a019c26da643f9e85d6394ada437b6c745e8f51a
+    name: impler-api
+    type: application
+    urls:
+    - packages/impler-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-06T16:22:56.6470466+05:30"
